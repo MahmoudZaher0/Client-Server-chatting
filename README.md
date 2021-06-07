@@ -1,1 +1,1 @@
-# Client-Server-chatting-python-application-
+# Socket programming Client-Server chatting pytho program
