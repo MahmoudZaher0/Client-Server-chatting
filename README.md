@@ -1,1 +1,1 @@
-# Socket programming Client-Server chatting pytho program
+Client-Server chatting pytho program using Socket programming 
